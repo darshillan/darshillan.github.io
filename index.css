@@ -1,0 +1,23 @@
+body {
+
+  background : pink;
+  font-style: bold;
+  }
+
+  .first_para{
+  color : blue;
+  font-size: 50px;
+  text-align : center;
+}
+  .secondpara {
+    color : green;
+    font-size : 50px
+    text-align : center;
+}
+
+  .image {
+  text-align : center;
+  
+  }
+#important {
+  font-size : 100px;}
